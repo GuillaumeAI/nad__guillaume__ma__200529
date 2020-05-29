@@ -6,8 +6,11 @@
 ## --@STCGoal A well reviewed of what is available in the market to create using artificial intelligence 
 
 
-### --@a Professional Application
+### --@a Professional Application ./app
 
-### --@a Plugins
+### --@a Plugins ./plugins
 
-### --@a Librairy
+### --@a Librairy  ./lib
+
+# --@STCGoal Well Organized Folder Structure
+
