@@ -1,0 +1,24 @@
+{
+  "name": "guillaumeairepos",
+  "version": "0.0.1",
+  "description": "Référenciel de code source et de liens - ressources supportant le reste de la docummentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeAI/nad__guillaume__ma__200529.git"
+  },
+  "keywords": [
+    "nad",
+    "ma",
+    "guillaumeAI"
+  ],
+  "author": "Guillaume Descoteaux-Isabelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillaumeAI/nad__guillaume__ma__200529/issues"
+  },
+  "homepage": "https://github.com/GuillaumeAI/nad__guillaume__ma__200529#readme"
+}
