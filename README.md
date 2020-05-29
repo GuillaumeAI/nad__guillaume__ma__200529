@@ -25,8 +25,8 @@
 
 ```sh
 mkdir -p lib
-export lib_repo=git@github.com:GuillaumeAI/stylegan2.git
-export target_rel_path=lib/stylegan2
+export lib_repo=git@github.com:GuillaumeAI/lib__runwayml__touchDesigner.git
+export target_rel_path=lib/runwayml__touchDesigner
 git submodule add $lib_repo $target_rel_path
 git submodule update $target_rel_path
 

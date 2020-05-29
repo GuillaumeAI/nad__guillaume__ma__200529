@@ -1,3 +1,6 @@
 [submodule "lib/stylegan2"]
 	path = lib/stylegan2
 	url = git@github.com:GuillaumeAI/stylegan2.git
+[submodule "lib/runwayml__touchDesigner"]
+	path = lib/runwayml__touchDesigner
+	url = git@github.com:GuillaumeAI/lib__runwayml__touchDesigner.git

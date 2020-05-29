@@ -1,6 +1,6 @@
 {
   "name": "guillaumeairepos",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Référenciel de code source et de liens - ressources supportant le reste de la docummentation",
   "main": "index.js",
   "scripts": {
