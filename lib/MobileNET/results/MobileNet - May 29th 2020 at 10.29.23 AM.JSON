@@ -1,0 +1,189 @@
+[
+    {
+        "filename": "animal-animal-photography-big-682375.jpg",
+        "results": [
+            {
+                "className": "timber wolf, grey wolf, gray wolf, Canis lupus",
+                "probability": 0.43917644023895264
+            },
+            {
+                "className": "red wolf, maned wolf, Canis rufus, Canis niger",
+                "probability": 0.3488337993621826
+            },
+            {
+                "className": "white wolf, Arctic wolf, Canis lupus tundrarum",
+                "probability": 0.09634949266910553
+            }
+        ]
+    },
+    {
+        "filename": "animal-animal-photography-close-up-80474.jpg",
+        "results": [
+            {
+                "className": "hognose snake, puff adder, sand viper",
+                "probability": 0.22478455305099487
+            },
+            {
+                "className": "night snake, Hypsiglena torquata",
+                "probability": 0.20670200884342194
+            },
+            {
+                "className": "king snake, kingsnake",
+                "probability": 0.16348546743392944
+            }
+        ]
+    },
+    {
+        "filename": "animal-animal-photography-cold-86405.jpg",
+        "results": [
+            {
+                "className": "king penguin, Aptenodytes patagonica",
+                "probability": 0.9459145665168762
+            },
+            {
+                "className": "albatross, mollymawk",
+                "probability": 0.023640047758817673
+            },
+            {
+                "className": "ptarmigan",
+                "probability": 0.022641245275735855
+            }
+        ]
+    },
+    {
+        "filename": "animal-aquarium-aquatic-1700656.jpg",
+        "results": [
+            {
+                "className": "hammerhead, hammerhead shark",
+                "probability": 0.14629550278186798
+            },
+            {
+                "className": "sea snake",
+                "probability": 0.11498656123876572
+            },
+            {
+                "className": "scuba diver",
+                "probability": 0.0900009423494339
+            }
+        ]
+    },
+    {
+        "filename": "animal-aquatic-marine-life-1618606.jpg",
+        "results": [
+            {
+                "className": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+                "probability": 0.4106818437576294
+            },
+            {
+                "className": "loggerhead, loggerhead turtle, Caretta caretta",
+                "probability": 0.3081643283367157
+            },
+            {
+                "className": "puffer, pufferfish, blowfish, globefish",
+                "probability": 0.15506666898727417
+            }
+        ]
+    },
+    {
+        "filename": "animal-avian-beak-1619504.jpg",
+        "results": [
+            {
+                "className": "bald eagle, American eagle, Haliaeetus leucocephalus",
+                "probability": 0.9279781579971313
+            },
+            {
+                "className": "goose",
+                "probability": 0.01598612777888775
+            },
+            {
+                "className": "pelican",
+                "probability": 0.011786645278334618
+            }
+        ]
+    },
+    {
+        "filename": "animal-avian-beak-416179.jpg",
+        "results": [
+            {
+                "className": "cicada, cicala",
+                "probability": 0.22262685000896454
+            },
+            {
+                "className": "robin, American robin, Turdus migratorius",
+                "probability": 0.15052209794521332
+            },
+            {
+                "className": "hummingbird",
+                "probability": 0.06298892945051193
+            }
+        ]
+    },
+    {
+        "filename": "animal-close-up-cobra-106690.jpg",
+        "results": [
+            {
+                "className": "night snake, Hypsiglena torquata",
+                "probability": 0.3847538232803345
+            },
+            {
+                "className": "ringneck snake, ring-necked snake, ring snake",
+                "probability": 0.3026650846004486
+            },
+            {
+                "className": "water snake",
+                "probability": 0.0767602026462555
+            }
+        ]
+    },
+    {
+        "filename": "animal-lion.jpg",
+        "results": [
+            {
+                "className": "lion, king of beasts, Panthera leo",
+                "probability": 0.9974474310874939
+            },
+            {
+                "className": "tiger, Panthera tigris",
+                "probability": 0.00045698072062805295
+            },
+            {
+                "className": "hay",
+                "probability": 0.0003590766864363104
+            }
+        ]
+    },
+    {
+        "filename": "beak-bird-chicken-1769271.jpg",
+        "results": [
+            {
+                "className": "hen",
+                "probability": 0.6386123895645142
+            },
+            {
+                "className": "cock",
+                "probability": 0.3493591547012329
+            },
+            {
+                "className": "ptarmigan",
+                "probability": 0.004046488553285599
+            }
+        ]
+    },
+    {
+        "filename": "dog-adorable-animal-breed-1490908.jpg",
+        "results": [
+            {
+                "className": "clumber, clumber spaniel",
+                "probability": 0.5582689642906189
+            },
+            {
+                "className": "golden retriever",
+                "probability": 0.22477556765079498
+            },
+            {
+                "className": "cocker spaniel, English cocker spaniel, cocker",
+                "probability": 0.08587498962879181
+            }
+        ]
+    }
+]
