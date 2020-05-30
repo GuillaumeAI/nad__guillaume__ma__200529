@@ -4,3 +4,6 @@
 [submodule "lib/runwayml__touchDesigner"]
 	path = lib/runwayml__touchDesigner
 	url = git@github.com:GuillaumeAI/lib__runwayml__touchDesigner.git
+[submodule "ext/runwayml__p5js"]
+	path = ext/runwayml__p5js
+	url = git@github.com:GuillaumeAI/runwayml__p5js.git
