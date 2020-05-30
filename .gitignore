@@ -1,3 +1,6 @@
+*.swo
+bash.exe.*
+
 # Logs
 logs
 *.log
