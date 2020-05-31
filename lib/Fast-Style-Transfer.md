@@ -26,16 +26,16 @@ Stylisation intelligente
 
 |       |       |  Contenu     | Résultat    |   Modèle    |
 |  ---  |  ---  |  ---  |  ---  |  ---  |
-|       |       |  ![Lion source content](https://i.imgur.com/nO5YSfQ.jpg)     | ![Lion sampled style](https://i.imgur.com/YdncdXS.jpg)      |  Cubist.Pth     |
-|       |       |       |  ![](https://i.imgur.com/iShlhcO.jpg)     |  Kandisky    |
-|       |       |       |  ![](https://i.imgur.com/CljhqE9.jpg)     |  Wu Guanzhong|
-|       |       |       |  ![](https://i.imgur.com/RpbnF8z.jpg)     |   Hokusai    |
-|       |       |       |  ![](https://i.imgur.com/sCBPxoG.jpg)     |   Hokusai    |
-|       |       |       |  ![](https://i.imgur.com/m6tr7dx.jpg)     |   Hokusai    |
-|       |       |       |  ![](https://i.imgur.com/sBBmgy3.jpg)     |   Hokusai    |
-|       |       |       |  ![](https://i.imgur.com/38lDZM4.jpg)     |   Hokusai    |
-|       |       |       |  ![](https://i.imgur.com/OHZHCqE.jpg)     |   Hokusai    |
-|       |       |       |  ![](https://i.imgur.com/lafyQGO.jpg)     |   Hokusai    |
+|       |       |  ![Lion source content](https://i.imgur.com/nO5YSfQ.jpg)     | ![Lion sampled style](https://i.imgur.com/YdncdXS.jpg)      |  **Cubist**     |
+|       |       |       |  ![](https://i.imgur.com/iShlhcO.jpg)     |  **Kandisky**    |
+|       |       |       |  ![](https://i.imgur.com/CljhqE9.jpg)     |  **Wu Guanzhong**|
+|       |       |       |  ![](https://i.imgur.com/RpbnF8z.jpg)     |   **Hokusai**    |
+|       |       |       |  ![](https://i.imgur.com/sCBPxoG.jpg)     |   **Hokusai**    |
+|       |       |       |  ![](https://i.imgur.com/m6tr7dx.jpg)     |   **Hokusai**    |
+|       |       |       |  ![](https://i.imgur.com/sBBmgy3.jpg)     |   **Hokusai**    |
+|       |       |       |  ![](https://i.imgur.com/38lDZM4.jpg)     |   **Hokusai**    |
+|       |       |       |  ![](https://i.imgur.com/OHZHCqE.jpg)     |   **Hokusai**    |
+|       |       |       |  ![](https://i.imgur.com/lafyQGO.jpg)     |   **Hokusai**    |
 
 
 # Les Modèles
