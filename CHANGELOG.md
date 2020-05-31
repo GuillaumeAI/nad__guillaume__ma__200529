@@ -1,3 +1,11 @@
+## [0.0.4](https://github.com/GuillaumeAI/nad__guillaume__ma__200529/compare/v0.0.6...v0.0.4) (2020-05-31)
+
+
+
+## [0.0.4](https://github.com/GuillaumeAI/nad__guillaume__ma__200529/compare/v0.0.5...v0.0.4) (2020-05-31)
+
+
+
 ## [0.0.4](https://github.com/GuillaumeAI/nad__guillaume__ma__200529/compare/v0.0.3...v0.0.4) (2020-05-29)
 
 
