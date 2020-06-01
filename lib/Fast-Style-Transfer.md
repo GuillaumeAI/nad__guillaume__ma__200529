@@ -36,6 +36,8 @@ Stylisation intelligente
 |       |       |       |  ![](https://i.imgur.com/38lDZM4.jpg)     |   **Hokusai**    |
 |       |       |       |  ![](https://i.imgur.com/OHZHCqE.jpg)     |   **Hokusai**    |
 |       |       |       |  ![](https://i.imgur.com/lafyQGO.jpg)     |   **Hokusai**    |
+|       |       |       |  ![](https://i.imgur.com/e56ZHia.jpg)     |  **Kandisky**    |
+|       |       |       |  ![](https://i.imgur.com/vqF17eJ.jpg)     |  **Kandisky**    |
 
 
 # Les Modèles
@@ -47,6 +49,7 @@ Stylisation intelligente
 |       |       |  Wu Guanzhong |  ![Wu Guanzhong](https://i.imgur.com/RxUc3SM.png)     |       |
 |       |       |  Hokusai      |  ![Hokusai](https://i.imgur.com/MiXrraB.png)     |       |
 |       |       |       |       |       |
+
 
 ----
 
@@ -60,3 +63,10 @@ https://github.com/agermanidis/runway-fast-neural-style
 
 ----
 
+# Other Results
+
+![](Fast-Style-Transfer/result-jg-tony-destro-Hokusai.jpg)
+![](Fast-Style-Transfer/result-jg-tony-destro-Kandinsky.jpg)
+![](Fast-Style-Transfer/sample-result-02.jpg)
+![](Fast-Style-Transfer/sample-result.jpg)
+![](Fast-Style-Transfer/sample-result.json)
