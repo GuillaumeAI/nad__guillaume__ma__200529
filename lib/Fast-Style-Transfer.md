@@ -1,6 +1,9 @@
 # Fast-Style-Transfer ![Fast-Style-Transfer header](https://i.imgur.com/WWy3VMI.png)
 
-Stylisation intelligente
+## Abstract
+
+Stylisation intelligente à l'aide de l'intelligence artificiel.  Un réseau de neurone est utilisé pour styliser une image de contenu.  Il existe plusieurs modèle de stylisation qui ont été expérimenté et seront présenté dans cet article.
+
 
 ## Description
 
