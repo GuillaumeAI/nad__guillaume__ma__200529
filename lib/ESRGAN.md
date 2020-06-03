@@ -10,4 +10,6 @@ Agrandir à partir d'un réseau adversaire.
 
 [Repo](https://github.com/xinntao/ESRGAN)
 
+[Research Paper](https://arxiv.org/abs/1809.00219)
+
 
