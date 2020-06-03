@@ -1,6 +1,23 @@
 # ESRGAN ref2006022300
 
-Agrandir à partir d'un réseau adversaire.
+# Évaluation
+
+## Expériences
+
+J'ai essayé d'agrandir une de mes images générées avec la librairie Fast-Style-Transfer et je n'ai pas aimé le résultat.
+
+## Questions
+
+* Si je fais l'agrandissement d'une image régulière, est-ce satisfaisant ?
+
+
+----
+
+# Buts : 
+
+Agrandir à partir d'un réseau de neurones.
+
+Mots clé:  Vision, reconnaissance de pattern
 
 ![](https://i.imgur.com/rsuJ4bk.png)
 
