@@ -1,5 +1,7 @@
 # ESRGAN ref2006022300
 
+IMP : Semble avoir été remplacé par [MMSR](https://github.com/open-mmlab/mmsr#mmsr)
+
 # Évaluation
 
 ## Expériences
