@@ -1,4 +1,4 @@
-# ESRGAN
+# ESRGAN ref2006022300
 
 Agrandir à partir d'un réseau adversaire.
 
@@ -11,5 +11,9 @@ Agrandir à partir d'un réseau adversaire.
 [Repo](https://github.com/xinntao/ESRGAN)
 
 [Research Paper](https://arxiv.org/abs/1809.00219)
+
+# Notes
+
+* The model has 1.78GB ![](https://i.imgur.com/hAcbNA8.png)
 
 
