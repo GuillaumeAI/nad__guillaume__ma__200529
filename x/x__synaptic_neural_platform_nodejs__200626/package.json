@@ -1,0 +1,12 @@
+{
+  "name": "x__synaptic_neural_platform_nodejs__200626",
+  "version": "1.0.0",
+  "description": "* Simple test de la plateforme NodeJS de réseaux neuronaux Synaptic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
