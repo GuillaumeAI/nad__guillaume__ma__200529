@@ -11,6 +11,12 @@ Quels sont les technologies utilisées par Atken ? Les resources ?
 
  ## Myron Krueger
  
+ > [...] considered to be one of the **first generation virtual reality and augmented reality researchers**.
+   
+ > He **envisioned the art of interactivity**, as opposed to art that happens to be interactive. That is, the idea that **exploring the space of interactions between humans and computers** was interesting. The focus was on the possibilities of interaction itself, rather than on an art project, which happens to have some response to the user.
+ 
+ Books : Myron Krueger. Artificial Reality 2, Addison-Wesley Professional, 1991. [ISBN 0-201-52260-8](https://en.wikipedia.org/wiki/Special:BookSources/0-201-52260-8)
+ 
  ## David Rokeby
  
  ## Ed Tannenbaum
