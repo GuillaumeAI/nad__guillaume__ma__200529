@@ -1,4 +1,9 @@
-Quels sont les technologies utilisées par Atken ?
+# Atken - Learning to see (Decomposing and analysing)
+
+
+Quels sont les technologies utilisées par Atken ? Les resources ?
+
+
 
 # References d'artistes
 
