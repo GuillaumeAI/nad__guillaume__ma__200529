@@ -54,7 +54,21 @@ Quels sont les technologies utilisées par Atken ? Les resources ?
 
 ## 1. F. Santoni de Sio and J. van den Hoven, “Meaningful Human Control over Autonomous Systems: A Philosophical Account,” Frontiers in Robotics and AI 5, (2018), p. 15.   
 
-> The work can be presented as both an interactive installation and a number of video works made using the same system. We use a novel training system and custom software, facilitating playful interaction and continuous, meaningful human control [1] in ways that offer a range of potential creative affordances not available in any other system.
+> The work can be presented as both an interactive installation and a number of video works made using the same system. We use a novel training system and custom software, facilitating playful interaction and continuous, **meaningful human control** [1] in ways that offer a range of potential creative affordances not available in any other system.
+
+Le document explique ce qu'est un contrôle significatif, c'est-à-dire ...
+...action...  tracage des actions et du responsable humain qui a généré la suite.
+
+### Autonomie des systèmes. 
+
+Sans intervention.
+
+
+l'intervention humaine ?
+
+
+La responsabilité humaine dans le résultat créé par l'IA. (intro)
+
 
 ----
 
