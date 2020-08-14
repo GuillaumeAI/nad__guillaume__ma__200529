@@ -76,12 +76,20 @@ La responsabilité humaine dans le résultat créé par l'IA. (intro)
 
 > Thus, at a higher level, the motivation behind the work is to use these **convolutional artificial neural networks** [2] — very loosely inspired by our own visual cortex [3] [...]
 
+### Backpropagation (rétropropagation)
+
+Nouveau modèle de reconnaissance.  Une partie de réseau est responsable de la reconnaissance des caractéristiques du médias analysés (image, son, ...)
+
+Usage en recherche: Le réseau convolutif et ce nouveau modèle sont plus attrayant que l'ancient modèle de reconnaissance qui n'était pas faite à l'aide du réseau de neurone.
+
 
 ----
 
 ## 3. D.H. Hubel and T.N. Wiesel, “Receptive Fields, Binocular Interaction and Functional Architecture in the Cat’s Visual Cortex,” The Journal of Physiology160, No. 1, pp. 106–154 (1962).  
 
 > [...]   convolutional artificial neural networks [2] — very loosely inspired by our own **visual cortex**  [3] — as a reflection on our own self-affirming cognitive biases.
+
+
 
 ----
 
