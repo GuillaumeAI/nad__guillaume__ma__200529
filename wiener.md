@@ -1,0 +1,10 @@
+
+
+# Thèse
+
+>La thèse de ce livre est que la société ne peut être comprise que par une étude des messages et des dispositifs de communication qu'elle contient; et que, dans le développement futur de ces messages et de ces dispositifs, les messages entre l'homme et les machines, entre les machines et l'homme, et entre la machine et la machine sont appelés à jouer un rôle sans cesse croissant. (Wiener, 1971, p.39)
+
+[...]
+
+
+>Ma thèse est que le fonctionnement physique de l'individu vivant et les opérations de certaines des machines à communiquer les plus récentes sont exactement parallèles dans leurs efforts analogues pour contrôler l'entropie par l'intermédiaire de la rétroaction. Dans les deux cas il existe des récepteurs sensoriels formant un stade de leur cycle de fonctionnement : c'est-à-dire que, dans les deux cas, il existe un appareil spécial pour recueillir l'information venant du monde extérieur à de faibles niveaux énergétiques, et la rendre valable dans le fonctionnement de l'individu ou de la machine. Dans les deux cas, **ces messages extérieurs ne sont pas recueillis à l'état brut** mais, par **l'intermédiaire des forces de transformation internes de l'appareil** (qu'il soit vivant ou non), sont alors **transformés en une nouvelle forme valable pour d'autres étapes du fonctionnement**. Chez l'animal comme chez la machine ce fonctionnement est rendu effectif vis-à- vis du monde extérieur: l'action accomplie, et non l'action prévue, est rapportée à leur centre de contrôle. Ce complexe de fonctionnement est ignoré de l'homme moyen et ne joue pas le rôle qu'il devrait jouer dans notre analyse habituelle de la société, car, de même que les réponses physiques individuelles peuvent être envisagées selon cette conception, de même peuvent l'être les réponses organiques de la société elle-même. Je ne veux pas dire que le sociologue ignore l'existence et la nature complexe des communications dans la société, mais jusqu'à une date récente, il a eu tendance à oublier à quel point elles sont le ciment qui donne sa cohésion à l'édifice social. (Wiener, 1971, p.47)
