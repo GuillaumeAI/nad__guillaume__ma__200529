@@ -1,4 +1,6 @@
 
+([Voir aussi document GoogleDocs](https://docs.google.com/document/d/1-kBta6-VDNGhGrT6m9NXR10rT9_xIvrnlI7QCwy-DP8/edit#heading=h.o6dmenwxgquj) - où des notes fraîches sont prisent.)
+
 
 # Thèse
 
