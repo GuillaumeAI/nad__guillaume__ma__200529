@@ -5,6 +5,9 @@
 
 ## --@STCGoal A well reviewed of what is available in the market to create using artificial intelligence 
 
+## --@STCGoal ML Platform integration 
+
+* [See RunWayML in TouchDesigner](./lib/runwayml__touchDesigner.md)
 
 ### --@a Professional Application ./app
 
