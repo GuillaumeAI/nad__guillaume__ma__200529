@@ -1,7 +1,7 @@
 {
   "name": "guillaumeairepos",
-  "version": "0.0.6",
-  "description": "Référenciel de code source et de liens - ressources supportant le reste de la docummentation",
+  "version": "0.0.9",
+  "description": "Référenciel de code source et de liens - ressources supportant le reste de la docummentation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
