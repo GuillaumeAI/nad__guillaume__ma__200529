@@ -165,3 +165,6 @@ par	courriel	à	medfamticoordtirecherche@usherbrooketica
 ## Structure d'un protocole de recherche
 
 
+
+
+Source: [PDF](https://www.usherbrooke.ca/dep-medecine-famille/fileadmin/user_upload/outil_rediger_protocole_2017-05-17_MiLuc.pdf)
